@@ -11,6 +11,7 @@ const SECTORS = [
     ["TestPageForPrinter", "https://testpageforprinter.com/", "Printable printer test pages as PDFs in Letter and A4 plus a print scale check, the scale calculation runs client-side in the browser.", true],
     ["Chempirical", "https://chempirical.com/", "Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH.", false],
     ["DeclaRenta", "https://declarenta.com/", "Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), calculations run client-side in the browser.", true],
+    ["BJJGraph", "https://bjjgraph.org/", "Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls.", false],
   ]},
   { id: "devtools", label: "DevTools", tools: [
     ["Diffchecker", "https://www.diffchecker.com/", "Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.", false],
@@ -30,6 +31,7 @@ const SECTORS = [
     ["Unsplash", "https://unsplash.com/", "Browse and download free high-resolution stock photos.", false],
     ["AI Coloring Page Generator", "https://photlin.com/", "Converts a photo into black-and-white line art and exports it as a printable A4 or US Letter page at 300 DPI, with all processing done client-side.", true],
     ["Background Remover", "https://tomaserben.com/free-tools/image-background-remover", "Free browser tool to remove image backgrounds; processing runs locally in the browser.", true],
+    ["Engineering on Web CAD", "https://engineeringonweb.com/cad/?lang=en", "Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF.", false],
   ]},
   { id: "productivity", label: "Productivity", tools: [
     ["Pomofocus", "https://pomofocus.io/", "Customizable Pomodoro timer with task tracking, no signup required to start a session.", false],
