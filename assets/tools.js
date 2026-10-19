@@ -62,6 +62,7 @@ const SECTORS = [
     ["FileOnTap", "https://fileontap.com/", "Free image and PDF converter; files are processed locally in the browser and are not uploaded.", true],
     ["Merge PDF", "https://merge-pdf.hexloomlabs.com/", "Combines PDFs into one file in the browser, the merge runs client-side and files are not uploaded (free tier: up to 3 files and 10MB total).", true],
     ["SnappyKit", "https://snappykit.site/", "Converts, compresses, resizes and crops images, and strips EXIF metadata; processing runs client-side in the browser.", true],
+    ["PageFold", "https://pagefold.tooleek.com/en/", "Merges, splits, reorders, rotates, compresses, page-numbers and watermarks PDFs; files are processed client-side in the browser and are not uploaded.", true],
   ]},
   { id: "text-writing", label: "Text & Writing", tools: [
     ["LanguageTool", "https://languagetool.org/", "Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.", false],
