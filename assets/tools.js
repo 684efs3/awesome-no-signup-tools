@@ -33,6 +33,7 @@ const SECTORS = [
     ["AI Coloring Page Generator", "https://photlin.com/", "Converts a photo into black-and-white line art and exports it as a printable A4 or US Letter page at 300 DPI, with all processing done client-side.", true],
     ["Background Remover", "https://tomaserben.com/free-tools/image-background-remover", "Free browser tool to remove image backgrounds; processing runs locally in the browser.", true],
     ["Engineering on Web CAD", "https://engineeringonweb.com/cad/?lang=en", "Parametric 3D CAD in the browser with constrained sketches, parts, assemblies and technical drawings, exports STL, STEP, IGES and DXF.", false],
+    ["PNG to SVG", "https://applore.app/png-to-svg", "Converts PNG, JPG, or WebP images up to 20 MB to full-color SVG with Detailed, Balanced, Simple, and Black & white styles and transparency kept, free, with tracing done in the browser (an optional AI mode requires an account).", false],
   ]},
   { id: "productivity", label: "Productivity", tools: [
     ["Pomofocus", "https://pomofocus.io/", "Customizable Pomodoro timer with task tracking, no signup required to start a session.", false],
