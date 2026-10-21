@@ -12,6 +12,7 @@ const SECTORS = [
     ["Chempirical", "https://chempirical.com/", "Free chemistry tools for structure drawing, spectra viewing, stoichiometry and pH.", false],
     ["DeclaRenta", "https://declarenta.com/", "Turns reports from foreign brokers such as Interactive Brokers and Degiro into the figures for Spanish tax forms (Modelo 100, 720 and 721), calculations run client-side in the browser.", true],
     ["BJJGraph", "https://bjjgraph.org/", "Free Brazilian jiu-jitsu study tool with an interactive position graph, flashcards, and simulated rolls.", false],
+    ["Spoolyard", "https://braedonsaunders.github.io/spoolyard/", "Draws piping isometrics and spool fabrication drawings with cut lengths, weld maps and bills of materials from ASME B16 dimension tables, runs client-side in the browser.", true],
   ]},
   { id: "devtools", label: "DevTools", tools: [
     ["Diffchecker", "https://www.diffchecker.com/", "Compare text, files, images, or JSON side-by-side; no signup required for standard diffs.", false],
