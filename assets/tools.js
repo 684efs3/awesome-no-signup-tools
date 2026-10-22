@@ -68,6 +68,7 @@ const SECTORS = [
     ["Merge PDF", "https://merge-pdf.hexloomlabs.com/", "Combines PDFs into one file in the browser, the merge runs client-side and files are not uploaded (free tier: up to 3 files and 10MB total).", true],
     ["SnappyKit", "https://snappykit.site/", "Converts, compresses, resizes and crops images, and strips EXIF metadata; processing runs client-side in the browser.", true],
     ["PageFold", "https://pagefold.tooleek.com/en/", "Merges, splits, reorders, rotates, compresses, page-numbers and watermarks PDFs; files are processed client-side in the browser and are not uploaded.", true],
+    ["EML to PDF", "https://emltopdf.net/", "Opens .eml and .msg email files and saves each one as a PDF, files are read client-side and not uploaded, and images from the internet are not loaded unless you choose to (free tier: one PDF per email, no limit; a ZIP of all PDFs and one merged PDF are paid).", true],
   ]},
   { id: "text-writing", label: "Text & Writing", tools: [
     ["LanguageTool", "https://languagetool.org/", "Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.", false],
